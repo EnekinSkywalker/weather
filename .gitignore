@@ -102,6 +102,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.idea_to_ignore/
+idea_to_ignore/
+.idea/
 .idea
 idea
 idea/
