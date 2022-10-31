@@ -155,5 +155,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.idea_to_ignore/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows
