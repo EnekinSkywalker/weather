@@ -109,7 +109,7 @@ idea_to_ignore/
 idea
 idea/
 .env
-.venv
+
 env/
 venv/
 ENV/
